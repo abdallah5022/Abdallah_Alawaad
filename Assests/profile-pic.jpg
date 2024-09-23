@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My CV</title>
+    <link rel="stylesheet" href="style.css"> <!-- Linking the CSS file -->
+</head>
+<body>
+
+    <!-- Container for the main content -->
+    <div class="container">
+        <!-- Profile picture -->
+        <img class="profile-pic" src="profile-pic.jpg" alt="Profile Picture">
+
+        <!-- Heading -->
+        <h1>Hello!</h1>
+
+        <!-- Bio description -->
+        <div class="bio">
+            Muslim | Product-Minded Software Engineer<br>
+            EX-Amazon, EX-STC, EX-WE | Currently @ Taager | Building XaakswStation.
+        </div>
+
+        <!-- Social media icons -->
+        <div class="social-icons">
+            <!-- LinkedIn Icon -->
+            <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+                <img src="linkedin-icon.png" alt="LinkedIn">
+            </a>
+            <!-- Twitter Icon -->
+            <a href="https://twitter.com/yourprofile" target="_blank">
+                <img src="twitter-icon.png" alt="Twitter">
+            </a>
+            <!-- GitHub Icon -->
+            <a href="https://github.com/yourusername" target="_blank">
+                <img src="github-icon.png" alt="GitHub">
+            </a>
+            <!-- Email Icon -->
+            <a href="mailto:your-email@example.com">
+                <img src="email-icon.png" alt="Email">
+            </a>
+        </div>
+
+    </div>
+
+</body>
+</html>
